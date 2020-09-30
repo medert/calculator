@@ -1,3 +1,4 @@
+#welcome to my code
 #include<stdio.h>
 #include<math.h>
 
